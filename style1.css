@@ -13,6 +13,10 @@
     position: relative;
     /* display: flex; */
 }
+.header a:hover{
+    color: green;
+    transition: .5s;
+}
  
  
 nav{

@@ -259,7 +259,7 @@ p{
  
 }
  
-/*feedback section*/
+
  
  
 .feedback{
@@ -303,7 +303,7 @@ p{
     background-position: center;
     background-size: cover;
     border-radius: 10px;
-    color: white; 
+ 
     display: flex;
     align-items: center;
     justify-content: center;
@@ -325,9 +325,7 @@ p{
     
 }
  
-/* about us section close */
- 
-/*footer section start*/
+
  
 .footer{
     text-align: center;

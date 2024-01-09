@@ -294,12 +294,6 @@ p{
 .feedname p{
     text-align: left;
 }
- 
-/* feedback section close */
- 
- 
-/* about us section start */
- 
 .aboutus{
     width: 90%;
     min-height: 30vh;
@@ -309,7 +303,7 @@ p{
     background-position: center;
     background-size: cover;
     border-radius: 10px;
-    /* color: white; */
+    color: white; 
     display: flex;
     align-items: center;
     justify-content: center;
